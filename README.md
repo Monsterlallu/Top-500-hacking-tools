@@ -1,5 +1,5 @@
 <p align="center">
-# Top-500+-hacking-tools
+# TOP-500+-HACKING-TOOLS
 <p align="center">
 # SCRIPT BY MONSTER LALLU
 <p align="center">
