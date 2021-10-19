@@ -1,6 +1,6 @@
 # Top-500-hacking-tools
 
-# termux_All_hacking_tool
+# SCRIPT BY MONSTER LALLU
 This is only for information about top 500 + hacking tools in termux and Linux
 
 FIND...ME.
