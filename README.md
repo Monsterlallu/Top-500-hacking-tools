@@ -5,7 +5,7 @@ This is only for information about top 500 + hacking tools in termux and Linux
 
 FIND...ME.
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/monster_lallu_?utm_medium=copy_link)👈
 
 - [phone number tracker](https://github.com/ShuBhamg0sain/phone-number-tracker) - information gathering tool for phone number 
 - [GHOSTSPLOIT](https://github.com/ShuBhamg0sain/GHOSTSPLOIT).   Connect debug devices via ip
