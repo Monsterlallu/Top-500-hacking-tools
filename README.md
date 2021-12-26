@@ -4,12 +4,12 @@
 
 </p>
 <p align="center">
-# TOP-500+-HACKING-TOOLS
+# Agori-Baba Tools
 <p align="center">
-# SCRIPT BY MONSTER LALLU
+# SCRIPT BY MONSTER LALLU FOR AGORI
 <p align="center">
 <p align="center">
-<img src="https://www.linkpicture.com/q/87799191.jpeg" alt="GIF" width="300" height="250"/>
+<img src="https://www.linkpicture.com/q/PicsArt_12-26-09.37.07.jpg" alt="GIF" width="300" height="250"/>
 
 </p>
 This is only for information about top 500 + hacking tools in termux and Linux
